@@ -1,0 +1,18 @@
+com/demo/guru99/comtestnewtoursindex/php/automation/userinterfaces/RegisterPage.java
+ com.demo.guru99.comtestnewtoursindex.php.automation.userinterfaces.RegisterPage
+com/demo/guru99/comtestnewtoursindex/php/automation/models/Data.java
+ com.demo.guru99.comtestnewtoursindex.php.automation.models.Data
+com/demo/guru99/comtestnewtoursindex/php/automation/userinterfaces/IndexPage.java
+ com.demo.guru99.comtestnewtoursindex.php.automation.userinterfaces.IndexPage
+com/demo/guru99/comtestnewtoursindex/php/automation/userinterfaces/HomePage.java
+ com.demo.guru99.comtestnewtoursindex.php.automation.userinterfaces.HomePage
+com/demo/guru99/comtestnewtoursindex/php/automation/tasks/OpenTheBrowser.java
+ com.demo.guru99.comtestnewtoursindex.php.automation.tasks.OpenTheBrowser
+com/demo/guru99/comtestnewtoursindex/php/automation/tasks/Register.java
+ com.demo.guru99.comtestnewtoursindex.php.automation.tasks.Register
+com/demo/guru99/comtestnewtoursindex/php/automation/tasks/OptionInHome.java
+ com.demo.guru99.comtestnewtoursindex.php.automation.tasks.OptionInHome
+com/demo/guru99/comtestnewtoursindex/php/automation/tasks/Login.java
+ com.demo.guru99.comtestnewtoursindex.php.automation.tasks.Login
+com/demo/guru99/comtestnewtoursindex/php/automation/userinterfaces/LoginPage.java
+ com.demo.guru99.comtestnewtoursindex.php.automation.userinterfaces.LoginPage

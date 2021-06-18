@@ -1,0 +1,4 @@
+com/demo/guru99/comtestnewtoursindex/php/automation/runners/RegisterRunner.java
+ com.demo.guru99.comtestnewtoursindex.php.automation.runners.RegisterRunner
+com/demo/guru99/comtestnewtoursindex/php/automation/stepdefinitions/RegisterStepsDefinitions.java
+ com.demo.guru99.comtestnewtoursindex.php.automation.stepdefinitions.RegisterStepsDefinitions
